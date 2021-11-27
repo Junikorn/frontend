@@ -3473,10 +3473,10 @@
                             "energy_usage": "Zużycie energii"
                         },
                         "energy_distribution": {
-                            "battery": "Bateria",
+                            "battery": "Magazyn energii",
                             "gas": "Gaz",
-                            "grid": "Siatka",
-                            "home": "Strona główna",
+                            "grid": "Sieć",
+                            "home": "Dom",
                             "non_fossil": "Niekopalne",
                             "solar": "Panele słoneczne"
                         },
